@@ -66,11 +66,3 @@ The projects generally use the following Python libraries:
    ```
 
 3. Open the notebook file and run the cells step by step.
-
-## Contributing
-
-You can contribute by adding a new project or improving existing ones. Please test your code before opening a PR (Pull Request).
-
-## License
-
-This repository is for educational purposes. No license information is provided. Please give credit when using the content.
